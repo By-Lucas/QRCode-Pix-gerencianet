@@ -18,8 +18,8 @@ pip install -r requirements.txt
     "expiracao": 3600 
     },
   "devedor": {
-    "cpf": "07490113512",
-    "nome": "LUCAS DA SILVA DOS SANTOS"
+    "cpf": "07492",
+    "nome": "LUCAS DA SILVA"
     },
   "valor": {
     "original": "1.50"
