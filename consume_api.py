@@ -8,8 +8,8 @@ json = {
     "expiracao": 3600 
     },
   "devedor": {
-    "cpf": "07490113512",
-    "nome": "LUCAS DA SILVA DOS SANTOS"
+    "cpf": "07412",
+    "nome": "LUCAS "
     },
   "valor": {
     "original": "1.50"
